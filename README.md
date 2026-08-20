@@ -1,4 +1,4 @@
-# Financial Transaction Fraud Detection - FastAPI
+# Financial Transaction Fraud Detection
 
 FastAPI backend for the fraud-detection model from the supplied notebook.
 
